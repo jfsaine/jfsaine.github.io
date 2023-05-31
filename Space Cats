@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <title>
+            Space Cats
+        </title>
+    </head>
+    <body>
+        <ul>
+
+        </ul>
+        <h1>
+            Hello all TG Computer Scientists
+        </h1>
+        <style>
+            p {
+              font-size: 25px;
+            }
+          </style>
+
+        <p>
+            Not to be outdone by Jared, I would like to unveil the ultimate list of Space Cats. Although less sophisticated from a copywriting perspective, "we" (ie. citizens of the World) believe this site to be of higher overall quality and entertainement value, hence more value additive to humanity.
+        </p1>
+        <p>
+            <iframe src="https://giphy.com/embed/1kdynKnzXdip2" width="470" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-1kdynKnzXdip2"></a></p>        </p>
+        <p>
+            <iframe src="https://giphy.com/embed/89IpbLNkeETdu" width="480" height="371" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-space-89IpbLNkeETdu"></a></p>        </p>
+        <p>
+            <iframe src="https://giphy.com/embed/w3J7mstYCISqs" width="480" height="342" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cat-space-high-w3J7mstYCISqs"></a></p>        </p>
+    </body>
+</html>
